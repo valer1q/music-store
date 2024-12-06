@@ -39,8 +39,7 @@
     background-color: #505050;
 }
 .footer__nav__item__logo{
-    width: 255px;
-    
-    padding-top: 115px;
-    padding-left: 1133px;
+    position: relative;
+    left: 420px;
+    top: 50px;
 }
