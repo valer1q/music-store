@@ -52,19 +52,34 @@
 .white{
   background-color: #EAEAEA;
   color: #767676;
-  
 }
 
 .gear__title{
   font-weight: 700;
   size: 24px;
   line-height: 31.2px;
+  color: #ffffff;
 }
 
 .gear__subhead{
   font-weight: 600;
   size: 18px;
   line-height: 23.4px;
+  color: #C4C4C4;
+}
+
+.gear__title__white{
+  font-weight: 700;
+  size: 24px;
+  line-height: 31.2px;
+  color: #202020;
+}
+
+.gear__subhead__white{
+  font-weight: 600;
+  size: 18px;
+  line-height: 23.4px;
+  color: #767676;
 }
 
 
